@@ -1,0 +1,6 @@
+pip install -
+
+streamlit
+transformers
+PyPDF2
+torch
